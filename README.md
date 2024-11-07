@@ -1,5 +1,5 @@
 # Ocean_Gyre_Stommel_model
-Author: Nishit Jajodia <n.jajodia@student.reading.ac.uk>
+Author: Nishit Jajodia <n.jajodia@student.reading.ac.uk, nishitjajodia@gmail.com>
 Date: 15 April 2024
 Done in partial fulfillment of MTMW14- Numerical Modelling of Atmosphere and Oceans (Project 2) at the University of Reading, Department of Meteorology.
 
